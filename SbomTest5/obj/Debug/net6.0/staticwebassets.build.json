@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Mks7LcIhJKfEcBOYgaTd8fNyqdqFTlrX49mTybaHxNQ=",
+  "Source": "SbomTest5",
+  "BasePath": "_content/SbomTest5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SbomTest5\\wwwroot",
+      "Source": "SbomTest5",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\SbomTest5\\SbomTest5\\wwwroot\\",
+      "BasePath": "_content/SbomTest5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Administrator\\source\\repos\\SbomTest5\\SbomTest5\\wwwroot\\.placeholder",
+      "SourceId": "SbomTest5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\source\\repos\\SbomTest5\\SbomTest5\\wwwroot\\",
+      "BasePath": "_content/SbomTest5",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}
